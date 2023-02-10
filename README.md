@@ -3,8 +3,9 @@
 PARA EXECUTAR O PROGRAMA VOCÊ PRECISA:
 
 1 - OpenCV instalado:
-
+'''
 $ sudo apt install libopencv-dev
+'''
 
 2 - Compilar o código da seguinte forma:
 
